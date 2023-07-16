@@ -1,0 +1,34 @@
+Deck
+1 Ornithopter (KLR) 255
+3 Ornithopter (BRR) 37
+2 Giant Killer (ELD) 14
+1 Thraben Inspector (SOI) 44
+3 Thraben Inspector (SIR) 51
+4 Voldaren Epicure (VOW) 182
+4 Burning-Tree Emissary (GTC) 216
+1 Regal Leosaur (IKO) 202
+2 Resolute Reinforcements (DMU) 29
+4 Knight-Errant of Eos (MOM) 26
+4 Venerated Loxodon (GRN) 30
+4 You See a Pair of Goblins (AFR) 170
+4 Gleeful Demolition (ONE) 134
+4 Forbidden Friendship (IKO) 119
+2 Mountain (MIR) 346
+4 Battlefield Forge (BRO) 257
+2 Castle Embereth (ELD) 239
+1 Den of the Bugbear (AFR) 254
+4 Inspiring Vantage (KLR) 283
+2 Mana Confluence (JOU) 163
+4 Sacred Foundry (GRN) 254
+
+Sideboard
+2 Tormod's Crypt (M21) 241
+1 Forge Devil (SIS) 41
+2 Forge Devil (JMP) 322
+1 Light of Hope (IKO) 20
+1 Rending Volley (DTK) 150
+2 Rending Volley (DTK) 150
+2 Invasion of Gobakhan (MOM) 22
+2 Magmatic Chasm (SIR) 168
+2 Wedding Announcement (VOW) 45
+

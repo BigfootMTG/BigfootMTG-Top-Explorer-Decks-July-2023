@@ -1,0 +1,58 @@
+Companion
+1 Yorion, Sky Nomad (IKO) 232
+
+Deck
+1 Jwari Disruption (ZNR) 64
+2 Dovin's Veto (WAR) 193
+1 Fateful Absence (MID) 18
+1 Memory Deluge (MID) 62
+1 March of Otherworldly Light (NEO) 28
+1 Change the Equation (MOM) 50
+1 Disdainful Stroke (GRN) 37
+1 Sublime Epiphany (M21) 74
+3 Absorb (RNA) 151
+2 Settle the Wreckage (XLN) 34
+3 Make Disappear (SNC) 49
+1 Time Wipe (WAR) 223
+1 Farewell (NEO) 13
+2 Supreme Verdict (RTR) 201
+2 Sunfall (MOM) 40
+4 Temporary Lockdown (DMU) 36
+3 Leyline Binding (DMU) 24
+2 Search for Azcanta (XLN) 74
+3 Shark Typhoon (IKO) 67
+2 Narset, Parter of Veils (WAR) 61
+4 The Wandering Emperor (NEO) 42
+3 Teferi, Hero of Dominaria (DAR) 207
+1 Field of Ruin (XLN) 254
+2 Field of Ruin (THB) 242
+1 Hall of Storm Giants (AFR) 257
+4 Hallowed Fountain (RNA) 251
+3 Island (MIR) 336
+1 Castle Vantress (ELD) 242
+2 Spara's Headquarters (SNC) 257
+3 Plains (MIR) 331
+2 Raffine's Tower (SNC) 254
+1 Eiganjo, Seat of the Empire (NEO) 268
+1 Otawara, Soaring City (NEO) 271
+2 Adarkar Wastes (DMU) 243
+1 Jetmir's Garden (SNC) 250
+1 Ketria Triome (IKO) 250
+1 Castle Ardenvale (ELD) 238
+2 Glacial Fortress (XLN) 255
+2 Raugrin Triome (IKO) 251
+4 Deserted Beach (MID) 260
+1 Failure /// Comply (AKR) 235
+1 Commit /// Memory (AKR) 54
+
+Sideboard
+1 Dovin's Veto (WAR) 193
+3 Mystical Dispute (ELD) 58
+2 Damping Sphere (DAR) 213
+1 Yorion, Sky Nomad (IKO) 232
+2 Deputy of Detention (RNA) 165
+1 Boon-Bringer Valkyrie (MOM) 9
+2 Lavinia, Azorius Renegade (RNA) 189
+1 Authority of the Consuls (KLR) 9
+1 Baneslayer Angel (M21) 6
+1 Shark Typhoon (IKO) 67

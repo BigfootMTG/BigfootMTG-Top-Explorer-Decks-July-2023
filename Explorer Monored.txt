@@ -1,0 +1,28 @@
+Deck
+3 Kari Zev, Skyship Raider (KLR) 133
+4 Eidolon of the Great Revel (JOU) 94
+2 Monastery Swiftspear (BRO) 144
+4 Soul-Scar Mage (AKR) 175
+2 Rampaging Ferocidon (XLN) 154
+3 Goblin Chainwhirler (DAR) 129
+4 Bonecrusher Giant (ELD) 115
+3 Torbran, Thane of Red Fell (ELD) 147
+4 Kumano Faces Kakkazan (NEO) 152
+1 Lightning Strike (XLN) 149
+3 Lightning Strike (DMU) 137
+4 Play with Fire (MID) 154
+14 Mountain (MIR) 346
+4 Ramunap Ruins (AKR) 326
+4 Den of the Bugbear (AFR) 254
+1 Sokenzan, Crucible of Defiance (NEO) 276
+
+Sideboard
+3 Rending Volley (DTK) 150
+3 Roiling Vortex (ZNR) 156
+1 Nahiri's Warcrafting (MOM) 155
+1 Nahiri's Warcrafting (MOM) 155
+1 Hazoret the Fervent (AKR) 159
+1 Rampaging Ferocidon (XLN) 154
+1 Damping Sphere (DAR) 213
+2 Leyline of Combustion (M20) 148
+2 Chandra, Dressed to Kill (VOW) 149

@@ -1,0 +1,30 @@
+Deck
+1 Katilda, Dawnhart Martyr (VOW) 21
+4 Mausoleum Wanderer (EMN) 69
+1 Rattlechains (SIR) 87
+3 Rattlechains (JMP) 166
+4 Shacklegeist (M21) 70
+4 Spectral Sailor (M20) 76
+4 Spell Queller (SIR) 244
+4 Supreme Phantom (M19) 76
+4 Geistlight Snare (VOW) 60
+3 Lofty Denial (M21) 56
+2 Slip Out the Back (SNC) 62
+4 Curious Obsession (RIX) 35
+4 Adarkar Wastes (DMU) 243
+4 Hallowed Fountain (RNA) 251
+4 Hengegate Pathway (KHM) 260
+3 Island (MIR) 336
+2 Mutavault (M14) 228
+1 Otawara, Soaring City (NEO) 271
+4 Seachrome Coast (ONE) 258
+
+Sideboard
+1 Destroy Evil (DMU) 17
+2 Invasion of Gobakhan (MOM) 22
+1 Katilda, Dawnhart Martyr (VOW) 21
+3 Portable Hole (AFR) 33
+1 Portable Hole (AFR) 33
+2 Skyclave Apparition (ZNR) 39
+1 Slip Out the Back (SNC) 62
+4 Wedding Announcement (VOW) 45

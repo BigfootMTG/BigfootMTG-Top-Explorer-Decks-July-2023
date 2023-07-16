@@ -1,0 +1,39 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+4 Fable of the Mirror-Breaker (NEO) 141
+3 Atraxa, Grand Unifier (ONE) 196
+4 Esika's Chariot (KHM) 169
+3 Courier's Briefcase (SNC) 142
+2 Heartless Act (IKO) 91
+4 Fatal Push (KLR) 84
+2 Duress (M20) 97
+4 Transmogrify (M21) 167
+4 Thoughtseize (AKR) 127
+3 Careful Cultivation (NEO) 178
+1 Ob Nixilis, the Adversary (SNC) 206
+1 Lukka, Bound to Ruin (ONE) 207
+2 Cragcrown Pathway (ZNR) 261
+2 Boseiju, Who Endures (NEO) 266
+3 Overgrown Tomb (GRN) 253
+1 Stomping Ground (RNA) 259
+4 Sulfurous Springs (DMU) 256
+1 Ziatora's Proving Ground (SNC) 261
+2 The World Tree (KHM) 275
+1 Mountain (MIR) 346
+1 Sokenzan, Crucible of Defiance (NEO) 276
+4 Darkbore Pathway (KHM) 254
+3 Blightstep Pathway (KHM) 252
+1 Mirrex (ONE) 254
+
+Sideboard
+1 Go for the Throat (BRO) 102
+2 Duress (M20) 97
+2 Damping Sphere (DAR) 213
+1 Jegantha, the Wellspring (IKO) 222
+1 Tear Asunder (DMU) 183
+1 Ob Nixilis, the Adversary (SNC) 206
+3 Rending Volley (DTK) 150
+2 Go Blank (STX) 72
+2 Extinction Event (IKO) 88
